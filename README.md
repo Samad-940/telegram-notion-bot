@@ -93,7 +93,7 @@ python bot.py
 ```
 telegram-notion-bot/
 ├── bot.py            # Main bot code
-├── .env              # Your secret tokens (never upload!)
+├── .env              # Secret tokens (never upload!)
 ├── .env.example      # Template for .env
 ├── .gitignore        # Ignores .env and notes.db
 ├── requirements.txt  # Python dependencies
